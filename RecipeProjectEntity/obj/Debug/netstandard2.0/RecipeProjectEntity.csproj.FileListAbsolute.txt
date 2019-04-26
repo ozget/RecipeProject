@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.deps.json
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.pdb
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.deps.json
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.dll
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\bin\Debug\netstandard2.0\RecipeProjectEntity.pdb
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.dll
+C:\Users\LENOVO\source\repos\RecipeProject3son\RecipeProjectEntity\obj\Debug\netstandard2.0\RecipeProjectEntity.pdb

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\bin\Debug\netstandard2.0\RecipeProjectData.deps.json
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\bin\Debug\netstandard2.0\RecipeProjectData.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\bin\Debug\netstandard2.0\RecipeProjectData.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\bin\Debug\netstandard2.0\RecipeProjectEntity.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\bin\Debug\netstandard2.0\RecipeProjectEntity.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectData\obj\Debug\netstandard2.0\RecipeProjectData.csproj.CopyComplete

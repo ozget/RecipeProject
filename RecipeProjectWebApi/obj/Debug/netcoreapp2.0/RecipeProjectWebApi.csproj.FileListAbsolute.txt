@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectWebApi.deps.json
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectWebApi.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectWebApi.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectWebApi.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectWebApi.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectData.dll
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\bin\Debug\netcoreapp2.0\RecipeProjectData.pdb
+C:\Users\LENOVO\source\repos\RecipeProject\RecipeProjectWebApi\obj\Debug\netcoreapp2.0\RecipeProjectWebApi.csproj.CopyComplete
